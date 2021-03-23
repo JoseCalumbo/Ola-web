@@ -5,9 +5,9 @@ color:white;
 list-style: none;
 
 }
-a{ color: white; text-decoration: none;}
+a { text-decoration: none;}
 header{
-    background-color:rgba(39, 100, 3, 0.867);
+    background-color:rgba(12, 29, 2, 0.945);
     display: flex;
     justify-content: space-between;
 }
@@ -17,5 +17,10 @@ ul{
     font-size: 28px;
 }
 ul li a{
+    color: white;
     margin: 15px;
+}
+
+div-logo{
+    margin-top: 60px;
 }
